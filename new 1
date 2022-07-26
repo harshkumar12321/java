@@ -1,0 +1,33 @@
+//NAME CONVENTION
+Class:   Class Student { }
+         Class Harsh {}
+		 
+		 
+Function name:  My World()
+                My Name ()
+
+Variable:       int [] marks;
+				double double ansewre;
+				
+static varable: string
+				flote
+				char
+				
+				
+				//question no 3
+				
+Java file :- Java file is a source code file written in the java programing language
+
+java class:- java class is a group of an object that share command
+
+no java is not complete OOP's programing language bec it is support prestive data type 
+
+NR - WA (no return with argument)
+void subtract(int a,int b){
+int c = a,b; 
+system.out.println (deffernece in two values = "+c);
+}
+
+
+Wrapper classes :- Wrapper class is provide by java which convert primtive to non premtive
+eg:- Chaecter, Float, Double, Boolean  				
